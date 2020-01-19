@@ -24,3 +24,8 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+
+# ProjectIO
+Code/MissMe_Dev/.pio
+Code/MissMe_Dev/.vscode
